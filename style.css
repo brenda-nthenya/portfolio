@@ -1,9 +1,20 @@
-body{
-    background-color: grey;
+/* General Styling */
+body {
+    background: #94b8b8;
+    color: #303030;
+    margin: 0;
+    line-height: 1.6;
+    padding: 5% 5% ;
 }
-h2 {
-    font-size: 300%;
+
+img {
+    display: block;
+    max-width: 70%;
 }
-ol {
-    line-height: 40px;
+
+/* NAvigation styling */
+
+.section__title {
+    margin-bottom: .25%;
+    text-shadow: #303030;
 }
