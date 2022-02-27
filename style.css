@@ -1,20 +1,72 @@
 /* General Styling */
 body {
-    background: #94b8b8;
-    color: #303030;
+    background-color: #0066cc;
     margin: 0;
+    left:0;
+    right:0;
+    top:0;
+    height: 100vh;
+    z-index: -1;
     line-height: 1.6;
     padding: 5% 5% ;
+    text-align: center;
 }
 
-img {
-    display: block;
-    max-width: 70%;
+h1
+h2
+h3 {
+    line-height: 2;
+    margin:0;
 }
 
-/* NAvigation styling */
+h1 {font-size: 50px;}
+h2 {font-size: 30px;}
+h3 {font-size: 20px; }
+p {font-size: 20px;}
 
-.section__title {
-    margin-bottom: .25%;
-    text-shadow: #303030;
+/* Header */
+
+header {
+    display: flex;
+    justify-content: left;
+    padding: 1%%;
+    
 }
+
+.logo {
+    width:50%;
+    height: 70%;
+    object-fit: contain;
+
+}
+.nav__list {
+    display: flex;
+    height: 120%;
+    flex-direction: column;
+    align-items: right;
+    margin:0;
+    padding:0;
+}
+
+/* HOme section */
+.introduction {
+
+    position: relative;
+    text-align: center;
+    background: url("img/code1.jpeg") no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
+/* Game section */
+
+
+/* Fun facts section */
