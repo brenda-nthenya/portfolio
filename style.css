@@ -10,19 +10,31 @@ body {
     line-height: 1.6;
     padding: 5% 5% ;
     text-align: center;
+    
 }
 
 h1
 h2
 h3 {
     line-height: 2;
-    margin:0;
+    margin:1;
+    
 }
 
-h1 {font-size: 50px;}
-h2 {font-size: 30px;}
-h3 {font-size: 20px; }
-p {font-size: 20px;}
+h1 {
+    font-size: 50px;
+    color: orangered;
+}
+h2 {
+    color: orangered;
+    font-size: 30px;
+}
+h3 {
+    color: orangered;
+    font-size: 20px;
+}
+p { font-size: 20px;
+}
 
 /* Header */
 
@@ -63,7 +75,7 @@ header {
 
 .play_game {
     background-color: #CCCDC6;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 .about_me {
