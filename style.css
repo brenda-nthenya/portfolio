@@ -1,6 +1,6 @@
 /* General Styling */
 body {
-    background-color: #0066cc;
+    background-color: #ffff;
     margin: 0;
     left:0;
     right:0;
@@ -53,11 +53,30 @@ header {
 
     position: relative;
     text-align: center;
-    background: url("img/code1.jpeg") no-repeat;
+    background-color: #E8E9EB;
     background-size: cover;
+    padding: 10px;
+    margin: 10px;
+    width: auto;
 
 }
 
+.play_game {
+    background-color: #CCCDC6;
+    padding-bottom: 10px;
+}
+
+.about_me {
+    background-color: #bbbcb6;
+}
+
+.random {
+    background-color: #acada8;
+}
+
+.end {
+    background-color: #746869;
+}
 
 
 
