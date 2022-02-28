@@ -3,13 +3,13 @@
 #### By Brenda Nthenya
 ## Description
 This is a example of a portfolio. It constist of various sections. They are namely 
-        -- Home
+    * Home
     This section has onlyy an introduction.
-        -- Play Game
+    * Play Game
     THis section redirects one to an earlier coded red green and blue game. It has two very different levels
-        -- About me
+    * About me
     This section briefly describes past, present and future deeds.
-        -- Randomly
+    * Randomly
     THe sections includes facts that you did not know about.
 ## Setup/Installation Requirements
 * There is no need for any specla softwatr. One requires internet connection alone.
